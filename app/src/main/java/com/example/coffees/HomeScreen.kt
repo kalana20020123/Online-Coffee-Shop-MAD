@@ -61,7 +61,7 @@ fun HomeScreen(navController: NavHostController) { // Add navController paramete
                             style = MaterialTheme.typography.bodyLarge
                         )
                         Text(
-                            text = "Bruce Wayne",
+                            text = "Kalana Sandeep",
                             color = Color.White,
                             fontSize = 25.sp,
                             fontFamily = customFont,
