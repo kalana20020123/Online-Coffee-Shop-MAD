@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffees</string>
+    <string name="welcome_text">Welcome!</string>
+    <string name="subtext">Life happens, coffee helps</string>
+    <string name="subtext_next">Brewing happiness, one cup at a time.</string>
+    <string name="next">Next</string>
+    <string name="sign">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="get_started">Get Started</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="username">"Username"</string>
+    <string name="password">"Password"</string>
+
+</resources>
